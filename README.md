@@ -24,6 +24,16 @@ The Employee Form in PayrollPlus is a powerful tool designed to streamline the p
 
 ![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/empList.PNG)
 
+## **Unit: Storing and Displaying Activity Unit Information**
+
+The Unit web page is a crucial part of an application's user interface that stores and displays detailed information about various activity units. This web page serves as a repository and a display panel where users can view, add, edit, and manage information related to different units of activities within the system. Here’s a comprehensive overview of what the Unit web page entails and its key functionalities.
+
+![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/unitEntry.PNG)
+
+## **Unit List**
+
+![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/unitEntry.PNG)
+
 
 
 
