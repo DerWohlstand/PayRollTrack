@@ -52,7 +52,7 @@ For example, an activity such as "digging" can be logged with its respective uni
 
 The "Material" page is an essential tool for managing the resources required for field work. This page is dedicated to saving the names of all available materials, ensuring that you have a comprehensive inventory at your fingertips.
 
-![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/matEntry.PNG0)
+![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/matEntry.PNG)
 
 ## **Material List**
 
