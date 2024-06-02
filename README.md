@@ -5,6 +5,26 @@ Welcome to PayrollPlus, your ultimate solution for seamless payroll management. 
 - [LOGIN PAGE](#login-page)
 - [Dashboard Page](#dash)
 - [Employee Entry](#employee)
+- [Unit Entry](#unit)
+- [Activity Entry](#activity)
+- [Material Entry](#material)
+- [Inventory Entry](#inventory)
+- [Section Entry](#section)
+- [Role Entry](#role)
+- [Privileges Entry](#privilege)
+- [DailyActivity](#dailyact)
+- [Material-InOut](#matio)
+- [Wallet](#wallet)
+- [Expenses](#exp)
+- [Salary](#sal)
+- [Attendance](#att)
+- [Wages Calculation](#wages)
+- [Payment Entry](#payment)
+- [Expense Report](#expreport)
+- [Payment Report](#payreport)
+- [Expenses Report](#expsreport)
+  
+  
 
 
 <a name="login-page"></a>
@@ -129,6 +149,8 @@ he "Privileges" page is designed to manage access control by assigning specific 
 
 ![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/Priv.PNG)
 
+<a name="dailyact"></a>
+
 ## **Daily Activity-Entry Page**
 
 The "Daily Entry" page is designed to comprehensively log daily activities and attendance, ensuring accurate record-keeping and tracking of field work. This page captures detailed information about which activity is performed in which section and records the attendance of workers, including any remarks.
@@ -138,6 +160,8 @@ The "Daily Entry" page is designed to comprehensively log daily activities and a
 ## **Daily-Entry List**
 
 ![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/dailyList.PNG)
+
+<a name="matio"></a>
 
 ## **Material-InOut Page**
 
@@ -149,6 +173,8 @@ The "Material In/Out" page is designed to manage and record the movement of mate
 
 ![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/matIOlist.PNG)
 
+<a name="wallet"></a>
+
 ## **Wallet Page**
 
 The "Wallet" page is designed to manage financial transactions involving employees. This page facilitates the handover of money to specific employees and maintains a comprehensive record of previous disbursements and expenses.
@@ -159,6 +185,7 @@ The "Wallet" page is designed to manage financial transactions involving employe
 
 ![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/walletList.PNG)
 
+<a name="exp"></a>
 
 ## **Expenses List**
 
@@ -166,18 +193,23 @@ The "Expenses" page is designed to streamline the process of tracking and managi
 
 ![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/ExpsList.PNG)
 
+<a name="sal"></a>
+
 ## **Salary Entry**
 
 The "Salary" page is designed to manage salary-related information for employees. It includes an "Effect From Date" field and a table with three columns: designation, amount, and salary type (daily/monthly). The salary saved on this page is affected by the date entered in the "Effect From Date" field.
 
 ![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/sal.PNG)
 
+<a name="att"></a>
 
 ## **Attendance Entry**
 
 The "Attendance List" page provides a comprehensive view of the attendance of employees based on their designated roles. This page matches attendance records from daily activity logs and material in/out records to track employee presence accurately.
 
 ![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/AttList.PNG)
+
+<a name="wages"></a>
 
 ## **Wages Calculation**
 
@@ -189,6 +221,7 @@ The "Wages Calculation" feature automates the process of calculating total salar
 
 ![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/wagesList.PNG)
 
+<a name="payment"></a>
 
 ## **Payment Entry**
 
@@ -196,9 +229,13 @@ The "Payment Entry" page is used to record payment transactions for employees, i
 
 ![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/payEntry.PNG)
 
+<a name="expreport"></a>
+
 ## **Expense Report**
 
 ![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/expReport.PNG)
+
+<a name="payreport"></a>
 
 ## **Payment Report**
 
@@ -207,6 +244,8 @@ The "Payment Report" page allows users to download an Excel file containing comp
 [Payment Report](https://github.com/DerWohlstand/PayRollTrack/blob/main/payment.xlsx)
 
 ![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/payReport.PNG)
+
+<a name="expsreport"></a>
 
 ## **Expenses Report**
 
