@@ -35,6 +35,19 @@ The Unit web page is a crucial part of an application's user interface that stor
 ![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/UnitList.PNG)
 
 
+## **Activity Page**
+
+The "Activity" page is designed to efficiently manage and record all upcoming tasks assigned to workers. This system streamlines task tracking by allowing users to enter and save activities along with their corresponding units.
+
+For example, an activity such as "digging" can be logged with its respective unit of measurement, such as "kilometers". This ensures that all activities are accurately recorded and easily accessible for future reference.
+
+
+![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/actEntry.PNG)
+
+## **Activity List**
+
+![This is login Page](https://github.com/DerWohlstand/PayRollTrack/blob/main/actList.PNG)
+
 
 
 
